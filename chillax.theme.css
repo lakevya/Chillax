@@ -59,7 +59,7 @@
 
 /*roots*/ /*both dark and light*/
 :root {
-  --user-name: "lakey";
+  --user-name: "sugaplum";
   --font-name: Poppins;
   --font-size: 13px;
      
@@ -85,7 +85,7 @@
 /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
   --accentcolor:	  147, 191, 220;	
 /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolorV2:     #93BFDC;
+  --accentcolorV2:     #FFE6F8;
      
      
 /*settings modal root*/
@@ -99,7 +99,7 @@
   --background-image:var(--de-suggested-bg);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
-  --de-suggested-bg: url('https://wallpapercave.com/wp/wp11767015.jpg');
+  --de-suggested-bg: url('https://i.pinimg.com/564x/22/bf/22/22bf22d387fb594b3a4b9a989802f90a.jpg');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
